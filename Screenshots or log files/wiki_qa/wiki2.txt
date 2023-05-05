@@ -1,0 +1,6 @@
+Found cached dataset wiki_qa (/home1/trishama/.cache/huggingface/datasets/wiki_qa/default/0.1.0/d2d236b5cbdc6fbdab45d168b4d678a002e06ddea3525733a24558150585951c)
+  0%|          | 0/3 [00:00<?, ?it/s]100%|██████████| 3/3 [00:00<00:00, 671.23it/s]
+Loading cached processed dataset at /home1/trishama/.cache/huggingface/datasets/wiki_qa/default/0.1.0/d2d236b5cbdc6fbdab45d168b4d678a002e06ddea3525733a24558150585951c/cache-3bda45b26f0a99d8.arrow
+Preprocess completed
+Loading cached processed dataset at /home1/trishama/.cache/huggingface/datasets/wiki_qa/default/0.1.0/d2d236b5cbdc6fbdab45d168b4d678a002e06ddea3525733a24558150585951c/cache-f854acbf5ad1cad1.arrow
+Flava's DistilBertTokenizer Accuracy: 58.70%
